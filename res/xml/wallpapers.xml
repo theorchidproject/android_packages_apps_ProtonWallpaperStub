@@ -258,6 +258,48 @@
             subtitle1="@string/author_pawel_czerwinski"
             actionUrl="@string/url_unsplash_paint_splash_O_KKGafRBMk" />
 
+        <static-wallpaper
+            id="unsplash_lighter_up__SkAOulmXzQ"
+            src="@drawable/unsplash_lighter_up__SkAOulmXzQ"
+            title="@string/wallpaper_unsplash_lighter_up__SkAOulmXzQ"
+            subtitle1="@string/author_john_noonan"
+            actionUrl="@string/url_unsplash_lighter_up__SkAOulmXzQ" />
+
+        <static-wallpaper
+            id="unsplash_marshall_speaker_XKJnYZ4YQj8"
+            src="@drawable/unsplash_marshall_speaker_XKJnYZ4YQj8"
+            title="@string/wallpaper_unsplash_marshall_speaker_XKJnYZ4YQj8"
+            subtitle1="@string/author_kajetan_sumila"
+            actionUrl="@string/url_unsplash_marshall_speaker_XKJnYZ4YQj8" />
+
+        <static-wallpaper
+            id="unsplash_car_night_zClc7xRRjjA"
+            src="@drawable/unsplash_car_night_zClc7xRRjjA"
+            title="@string/wallpaper_unsplash_car_night_zClc7xRRjjA"
+            subtitle1="@string/author_raphael_lopes"
+            actionUrl="@string/url_unsplash_car_night_zClc7xRRjjA" />
+
+        <static-wallpaper
+            id="unsplash_smoke_spider_V0zU9A_Zq9A"
+            src="@drawable/unsplash_smoke_spider_V0zU9A_Zq9A"
+            title="@string/wallpaper_unsplash_smoke_spider_V0zU9A_Zq9A"
+            subtitle1="@string/author_alexander_jawfox"
+            actionUrl="@string/url_unsplash_smoke_spider_V0zU9A_Zq9A" />
+
+        <static-wallpaper
+            id="unsplash_hoodie_spider_IA-hur8sZU4"
+            src="@drawable/unsplash_hoodie_spider_IA-hur8sZU4"
+            title="@string/wallpaper_unsplash_hoodie_spider_IA-hur8sZU4"
+            subtitle1="@string/author_format_arw"
+            actionUrl="@string/url_unsplash_hoodie_spider_IA-hur8sZU4" />
+
+        <static-wallpaper
+            id="unsplash_spider_noir_HAOF1wfW7f4"
+            src="@drawable/unsplash_spider_noir_HAOF1wfW7f4"
+            title="@string/wallpaper_unsplash_spider_noir_HAOF1wfW7f4"
+            subtitle1="@string/author_zachary_delorenzo"
+            actionUrl="@string/url_unsplash_spider_noir_HAOF1wfW7f4" />
+
     </category>
 
     <category id="elementary" title="@string/category_elementary" featured="elementary_odin_1">
